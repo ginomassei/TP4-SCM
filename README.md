@@ -75,15 +75,15 @@ BIBLIO_1001_ManifiestoAgil.pdf
 ## Listado de ítems de configuración
 Se consideran ítems de configuración a los siguientes elementos:
 
-| Tipo | Formato |
-| :--------: | :--------: |
-| Bibliografía | PDF |
-| Trabajos Prácticos | PDF, DOCX, XLSX |
-| Resúmenes | PDF, DOCX, GDOC |
-| Lineamientos | PDF |
-| Clases | PDF, PPTX |
-| Multimedia | JPG, PNG, PDF, MP4 |
-| Tomas de notas | PDF, DOCX, GDOC |
+| Tipo | Formato | Abreviatura |
+| :--------: | :--------: | :--------: |
+| Bibliografía | PDF | BIBLIO |
+| Trabajos Prácticos | PDF, DOCX, XLSX | TP |
+| Resúmenes | PDF, DOCX, GDOC | RES |
+| Lineamientos | PDF | LINEA |
+| Clases | PDF, PPTX | CLASE |
+| Multimedia | JPG, PNG, PDF, MP4 | MULT |
+| Tomas de notas | PDF, DOCX, GDOC | NOTAS |
 
 ## Documento de gestión de configuración
 El documento de gestión de configuración se encuentra en el directorio raíz del repositorio y por una disposición del repositorio remoto que estamos utilizando debe de llamarse "README.md". De esta manera se puede tener siempre visible el documento de gestión de configuración de una forma rápida y sencilla.
