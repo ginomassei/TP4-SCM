@@ -68,22 +68,22 @@ BIBLIO_1001_ManifiestoAgil.pdf
 | Trabajos Prácticos | 2XXXX |
 | Resúmenes | 3XXXX |
 | Lineamientos | 4XXXX |
-| Clases | 5XXXX |
+| Presentaciones | 5XXXX |
 | Multimedia | 6XXXX |
 | Tomas de notas | 7XXXX |
 
 ## Listado de ítems de configuración
 Se consideran ítems de configuración a los siguientes elementos:
 
-| Tipo | Formato | Abreviatura |
-| :--------: | :--------: | :--------: |
-| Bibliografía | PDF | BIBLIO |
-| Trabajos Prácticos | PDF, DOCX, XLSX | TP |
-| Resúmenes | PDF, DOCX, GDOC | RES |
-| Lineamientos | PDF | LINEA |
-| Clases | PDF, PPTX | CLASE |
-| Multimedia | JPG, PNG, PDF, MP4 | MULT |
-| Tomas de notas | PDF, DOCX, GDOC | NOTAS |
+| Tipo | Formato | Abreviatura | Ubicación Física |
+| :--------: | :--------: | :--------: | :--------: |
+| Bibliografía | PDF | BIBLIO | Bibliografia/ |
+| Trabajos Prácticos | PDF, DOCX, XLSX | TP | TrabajosPrácticos/ |
+| Resúmenes | PDF, DOCX, GDOC | RES | Resúmenes/ |
+| Lineamientos | PDF | LINEA | Lineamientos/ |
+| Multimedia | JPG, PNG, PDF, MP4 | MULT | Multimedia/ |
+| Tomas de notas | PDF, DOCX, GDOC | NOTAS | Clases/ClaseX-(Tema)/Toma de notas/ |
+| Presentaciones | PDF, PPTX, GDOC | PRESENT | Clases/ClaseX-(Tema)/Presentaciones/ |
 
 ## Documento de gestión de configuración
 El documento de gestión de configuración se encuentra en el directorio raíz del repositorio y por una disposición del repositorio remoto que estamos utilizando debe de llamarse "README.md". De esta manera se puede tener siempre visible el documento de gestión de configuración de una forma rápida y sencilla.
