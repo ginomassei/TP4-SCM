@@ -15,9 +15,9 @@ Hemos propuesto como estructura de directorios la siguiente, pensando en el desa
 ├──Lineamientos
 ├──TrabajosPrácticos
     ├──TPX
-├──TrabajosPrácticosConceptuales
+├──TrabajosConceptuales
 ├──Resúmenes
-    ├── UnidadX
+    ├── ParcialX
 ├──Multimedia
     ├──UnidadX
 ```
@@ -72,7 +72,7 @@ BIBLIO_1001_ManifiestoAgil.pdf
 | Presentaciones | 5XXXX |
 | Multimedia | 6XXXX |
 | Tomas de notas | 7XXXX |
-| Trabajos Prácticos Conceptuales | 8XXXX |
+| Trabajos Conceptuales | 8XXXX |
 
 ## Listado de ítems de configuración
 Se consideran ítems de configuración a los siguientes elementos:
@@ -81,6 +81,7 @@ Se consideran ítems de configuración a los siguientes elementos:
 | :--------: | :--------: | :--------: | :--------: |
 | Bibliografía | PDF | BIBLIO | Bibliografia/ |
 | Trabajos Prácticos | PDF, DOCX, XLSX | TP | TrabajosPrácticos/ |
+| Trabajos Conceptuales | PDF, PPTX | TP | TrabajosConceptuales/ |
 | Resúmenes | PDF, DOCX, GDOC | RES | Resúmenes/ |
 | Lineamientos | PDF | LINEA | Lineamientos/ |
 | Multimedia | JPG, PNG, PDF, MP4 | MULT | Multimedia/ |
