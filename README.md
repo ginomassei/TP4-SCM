@@ -15,6 +15,7 @@ Hemos propuesto como estructura de directorios la siguiente, pensando en el desa
 ├──Lineamientos
 ├──TrabajosPrácticos
     ├──TPX
+├──TrabajosPrácticosConceptuales
 ├──Resúmenes
     ├── UnidadX
 ├──Multimedia
