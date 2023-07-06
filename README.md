@@ -72,6 +72,7 @@ BIBLIO_1001_ManifiestoAgil.pdf
 | Presentaciones | 5XXXX |
 | Multimedia | 6XXXX |
 | Tomas de notas | 7XXXX |
+| Trabajos Prácticos Conceptuales | 8XXXX |
 
 ## Listado de ítems de configuración
 Se consideran ítems de configuración a los siguientes elementos:
